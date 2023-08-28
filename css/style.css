@@ -153,3 +153,46 @@ body {
   color: #163152;
   text-decoration: none;
 }
+
+.page-header {
+  width: 1170px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 55px;
+  padding-right: 55px;
+}
+
+.main-nav {
+  display: flex;
+}
+
+.logo {
+  margin: 0;
+  margin-right: auto;
+}
+
+.site-navigation {
+  list-style: none;
+  width: 400px;
+  margin: 0;
+  padding: 0;
+  margin-right: 40px;
+}
+
+.signin {
+  width: 36px;
+}
+
+.main-content {
+  margin: 0 auto;
+  width: 1170px;
+  padding-left: 55px;
+  padding-right: 55px;
+}
+
+.hero h1 {
+  margin: 0;
+  margin-bottom: 40px;
+}
